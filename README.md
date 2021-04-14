@@ -3,9 +3,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/CUE-ASAP/Main-Web">
-    <img src="https://github.com/CUE-ASAP/Main-Web/tree/master/images/CUE%20asap%20LOGO%20Black.gif" alt="Logo" width="120" height="80">
-  </a>
+<img src="https://github.com/CUE-ASAP/Main-Web/tree/master/images/CUE%20asap%20LOGO%20Black.gif" alt="Logo" width="120" height="80">
+
 
   <h3 align="center">CUE-ASAP</h3>
   <h4 align="center">(CA)</h4>
